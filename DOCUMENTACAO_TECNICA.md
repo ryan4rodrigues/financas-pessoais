@@ -559,7 +559,3 @@ Com funcionalidades que abrangem desde controle básico de contas até análises
 
 ---
 
-**Desenvolvido por:** Adryan Rodrigues
-**Tecnologias:** React, JavaScript, Tailwind CSS, Recharts  
-**Licença:** MIT  
-**Documentação:** Versão 1.0.0 - Outubro 2025
