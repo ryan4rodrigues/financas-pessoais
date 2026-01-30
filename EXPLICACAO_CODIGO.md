@@ -1251,7 +1251,7 @@ O resultado é uma aplicação moderna, performática e escalável que demonstra
 
 ---
 
-**Desenvolvido por:** Manus AI  
+**Desenvolvido por:** Ryan Rodrigues
 **Tecnologias:** React 18, JavaScript ES6+, Tailwind CSS, Recharts  
 **Padrões:** Context API, Custom Hooks, Responsive Design  
 **Data:** Outubro 2025
